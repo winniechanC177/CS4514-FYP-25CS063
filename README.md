@@ -3,7 +3,7 @@
 - SLM: Small Language Model
 ## Runnable Application
 - Please go to the release part and download the APK.
-- https://github.com/winniechanC177/FYP-25CS063/releases/tag/v1.0
+- https://github.com/winniechanC177/CS4514-FYP-25CS063/releases/tag/v1.0
 - In the first time open the project, there is a network need for downloading SLM Model.
 ## Requirement
 - System: Android 12.0 or above
